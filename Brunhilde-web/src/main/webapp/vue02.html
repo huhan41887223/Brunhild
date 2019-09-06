@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>對也不對</title>
+
+    <script src="js/vue2.js"></script>
+
+
+
+</head>
+<body>
+<div id="app">
+
+
+
+<ul  v-for="(arr,index) in arrs">
+
+    <li> {{arr.id}}</li>
+    <li> {{arr.name}}</li>
+    <li> {{arr.sex}}</li>
+</ul>
+</div >
+
+
+
+<script>
+
+    new Vue({
+        el:"#app",
+        data:{
+            arrs:[{id:1,name:"胡涵",sex:"男"},{id:2,name:"涵",sex:"男"},{id:3,name:"胡",sex:"男"}]
+
+
+
+        }
+    })
+</script>
+</body>
+
+</html>
