@@ -6,7 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b702e1-30e0-47fc-9488-ca10d2fee2dd" name="Default Changelist" comment="" />
+    <list default="true" id="12b702e1-30e0-47fc-9488-ca10d2fee2dd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Brunhild-mapper/target/" />
@@ -48,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="61" column="19" lean-forward="true" selection-end-line="89" selection-end-column="7" />
+              <caret line="61" column="19" selection-end-line="89" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="70">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -100,6 +102,9 @@
       <find>updateByPrimaryKey</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,7 +117,6 @@
         <option value="$PROJECT_DIR$/Brunhild-entity/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhild-web/src/main/java/com/shangma/cn/controller/UserGameController.java" />
         <option value="$PROJECT_DIR$/Brunhild-web/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml" />
@@ -132,6 +136,7 @@
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/vue2.html" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue02.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -189,6 +194,7 @@
     <option name="width" value="1695" />
     <option name="height" value="983" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -211,6 +217,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image" />
@@ -219,7 +226,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.20212767" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -413,16 +420,15 @@
       <workItem from="1567343690118" duration="3157000" />
       <workItem from="1567347369968" duration="2713000" />
       <workItem from="1567350122393" duration="10436000" />
-      <workItem from="1567475214551" duration="38048000" />
+      <workItem from="1567475214551" duration="39582000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54354000" />
+    <option name="totallyTimeSpent" value="55888000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -435,20 +441,20 @@
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4978678" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.07089552" side_tool="true" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.07036247" side_tool="true" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.9301706" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.9291045" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.92963755" visible="true" weight="0.3286334" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.9291045" weight="0.4002169" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="15" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.03731343" />
+      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.31823027" />
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
@@ -787,7 +793,7 @@
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="61" column="19" lean-forward="true" selection-end-line="89" selection-end-column="7" />
+          <caret line="61" column="19" selection-end-line="89" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -800,8 +806,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="70">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
