@@ -6,7 +6,84 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12b702e1-30e0-47fc-9488-ca10d2fee2dd" name="Default Changelist" comment="" />
+    <list default="true" id="12b702e1-30e0-47fc-9488-ca10d2fee2dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/BaseGame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/BaseGameExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/BaseGameExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/BaseGameExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/BaseGameExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/PageBean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/TGameuser.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/TGameuserExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/TGameuserExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/TGameuserExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-entity/target/classes/com/shangma/cn/entity/TGameuserExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/applicationContext-dao.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/com/shangma/cn/mapper/BaseGameMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/com/shangma/cn/mapper/BaseGameMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/com/shangma/cn/mapper/TGameuserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/com/shangma/cn/mapper/TGameuserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/db.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/target/classes/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/META-INF/Brunhild-service.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/applicationContext-service.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/com/shangma/cn/service/IBaseGameService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/com/shangma/cn/service/IGameUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/com/shangma/cn/service/impl/BaseGameServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhild-service/target/classes/com/shangma/cn/service/impl/GameUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/classes/applicationContext-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/classes/com/shangma/cn/controller/BaseGameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/classes/com/shangma/cn/controller/UserGameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/Brunhild-entity-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/Brunhild-mapper-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/Brunhild-service-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.9.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.9.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.9.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/jsqlparser-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.4.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.17.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/pagehelper-5.1.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-aspects-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.1.5.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/css/pagination.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/css/sb-admin-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/js/index2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/js/jquery.pagination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/vue.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/Brunhild-web-1.0-SNAPSHOT/vue02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/classes/applicationContext-web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/classes/com/shangma/cn/controller/BaseGameController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Brunhilde-web/target/classes/com/shangma/cn/controller/UserGameController.class" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Brunhild-mapper/target/" />
@@ -48,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="189">
-              <caret line="61" column="19" lean-forward="true" selection-end-line="89" selection-end-column="7" />
+              <caret line="61" column="19" selection-end-line="89" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -65,8 +142,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="744">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+            <state relative-caret-position="70">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -100,6 +177,9 @@
       <find>updateByPrimaryKey</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -112,7 +192,6 @@
         <option value="$PROJECT_DIR$/Brunhild-entity/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhild-web/src/main/java/com/shangma/cn/controller/UserGameController.java" />
         <option value="$PROJECT_DIR$/Brunhild-web/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/pom.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml" />
@@ -132,6 +211,7 @@
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/vue2.html" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue02.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -183,12 +263,13 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="229" />
-    <option name="y" value="61" />
-    <option name="width" value="1695" />
-    <option name="height" value="983" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="223" />
+    <option name="y" value="558" />
+    <option name="width" value="1582" />
+    <option name="height" value="702" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -211,6 +292,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image" />
@@ -413,15 +495,15 @@
       <workItem from="1567343690118" duration="3157000" />
       <workItem from="1567347369968" duration="2713000" />
       <workItem from="1567350122393" duration="10436000" />
-      <workItem from="1567475214551" duration="38048000" />
+      <workItem from="1567475214551" duration="39076000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54354000" />
+    <option name="totallyTimeSpent" value="55382000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="223" y="558" width="1582" height="702" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
@@ -430,25 +512,25 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" sideWeight="0.50180507" side_tool="true" weight="0.2249467" />
       <window_info id="Web" order="5" sideWeight="0.5024233" side_tool="true" weight="0.18923241" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49819493" visible="true" weight="0.2249467" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49819493" visible="true" weight="0.27726674" />
       <window_info id="Structure" order="7" sideWeight="0.5024233" side_tool="true" weight="0.18923241" />
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4978678" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.07089552" side_tool="true" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.085413925" side_tool="true" visible="true" weight="0.5334507" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
       <window_info anchor="bottom" id="Version Control" order="6" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
-      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.9301706" weight="0.32936078" />
-      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.9291045" visible="true" weight="0.3997833" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.91458607" visible="true" weight="0.5334507" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.9291045" weight="0.4002169" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
       <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4989339" weight="0.32936078" />
       <window_info anchor="bottom" id="Spring" order="15" sideWeight="0.49946696" weight="0.32936078" />
-      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.03731343" />
+      <window_info active="true" anchor="right" id="Maven" order="0" visible="true" weight="0.39224705" />
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Database" order="3" weight="0.32995737" />
@@ -787,7 +869,7 @@
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="61" column="19" lean-forward="true" selection-end-line="89" selection-end-column="7" />
+          <caret line="61" column="19" selection-end-line="89" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -800,8 +882,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="744">
-          <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="46" selection-end-line="31" selection-end-column="46" />
+        <state relative-caret-position="70">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
