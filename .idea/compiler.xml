@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Brunhild-web" />
-        <module name="Brunhild-mapper" />
-        <module name="Brunhilde-web" />
         <module name="Brunhild-entity" />
+        <module name="Brunhild-mapper" />
         <module name="Brunhild-service" />
+        <module name="Brunhild-web" />
+        <module name="Brunhild-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
