@@ -18,6 +18,7 @@
 
     <!--配置静态资源不被拦截-->
     <mvc:default-servlet-handler/>
+    
 
     <!--视图解析器  可配置 可以不配置 -->
 </beans>

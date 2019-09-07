@@ -42,6 +42,8 @@
         <property name="basePackage" value="com.shangma.cn.mapper"/>
     </bean>
 
+
+
     <!--这也是一种解决方式 -->
     <!--<import resource="classpath:applicationContext-service.xml"/>-->
 

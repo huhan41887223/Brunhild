@@ -1,6 +1,6 @@
 body {
     font-family: "Montserrat", sans-serif;
-    background-image: url(../img/wallhaven-83xrjj.jpg);
+    background-image: url(../image/wallhaven-83xrjj.jpg);
 }
 .container {
     max-width: 800px;
@@ -23,7 +23,7 @@ section#formHolder {
 }
 .col-sm-6.brand {
     padding: 20px;
-    background: url(/uploads/161001/lighten2.jpg);
+
     background-size: cover;
     background-position: center center;
     color: #fff;
@@ -39,12 +39,12 @@ section#formHolder {
 .brand::before {
     content: "";
     display: block;
-    width: 100%;
-    height: 100%;
+    width: 0%;
+    height: 0%;
     position: absolute;
     top: 0;
     left: 0;
-    background: rgba(0, 0, 0, 0.85);
+    background: rgba(0, 0, 0, 0);
     z-index: -1;
 }
 .brand a.logo {

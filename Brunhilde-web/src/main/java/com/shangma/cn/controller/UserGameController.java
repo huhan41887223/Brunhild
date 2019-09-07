@@ -37,6 +37,7 @@ public class UserGameController {
         }
 
 
+
         return ResponseEntity.ok(iGameUserService.selectAll(currentPage,pageSize));
 
     }
