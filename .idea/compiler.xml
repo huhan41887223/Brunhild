@@ -6,17 +6,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Brunhild-web" />
-        <module name="Brunhild-mapper" />
-        <module name="Brunhilde-web" />
         <module name="Brunhild-entity" />
+        <module name="Brunhild-mapper" />
         <module name="Brunhild-service" />
+        <module name="Brunhild-web" />
+        <module name="Brunhild-web" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="Brunhid-service" target="1.5" />
       <module name="Brunhide-service" target="1.5" />
-      <module name="Brunhild-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
