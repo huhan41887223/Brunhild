@@ -16,7 +16,6 @@
     <bytecodeTargetLevel>
       <module name="Brunhid-service" target="1.5" />
       <module name="Brunhide-service" target="1.5" />
-      <module name="Brunhild-web" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
