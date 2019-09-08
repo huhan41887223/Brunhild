@@ -6,22 +6,11 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68574ccf-0427-47be-98c3-d323aa46930d" name="Default Changelist" comment="这他妈也行">
-      <change afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image/wallhaven-83xrjj.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/jquery-3.4.1.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+    <list default="true" id="68574ccf-0427-47be-98c3-d323aa46930d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhild-mapper/src/main/resources/db.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhild-mapper/src/main/resources/db.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/UserGameController.java" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/UserGameController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/第三次更新测试.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/第二次更新测试.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index2.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/Brunhild-service/target/" />
@@ -40,21 +29,23 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="39" column="82" selection-start-line="39" selection-start-column="82" selection-end-line="39" selection-end-column="82" />
+            <state relative-caret-position="424">
+              <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+              <folding>
+                <element signature="n#style#0;n#h5#0;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h5#1;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72" />
-          </provider>
+        <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image/20190905204823866.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -80,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
+            <state relative-caret-position="480">
               <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
             </state>
           </provider>
@@ -89,17 +80,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="479">
+            <state relative-caret-position="816">
               <caret line="34" selection-start-line="34" selection-end-line="34" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="81" selection-start-line="81" selection-end-line="88" selection-end-column="1" />
+            <state relative-caret-position="336">
+              <caret line="310" selection-start-line="310" selection-end-line="310" />
             </state>
           </provider>
         </entry>
@@ -107,7 +98,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/UserGameController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
+            <state relative-caret-position="648">
               <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
@@ -116,7 +107,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
+            <state relative-caret-position="1056">
               <caret line="44" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
@@ -142,9 +133,9 @@
         <option value="$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml" />
-        <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/UserGameController.java" />
         <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html" />
+        <option value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css" />
       </list>
     </option>
   </component>
@@ -186,7 +177,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -362,7 +353,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -370,7 +361,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -475,7 +466,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1567845162383</updated>
-      <workItem from="1567845177034" duration="7912000" />
+      <workItem from="1567845177034" duration="8606000" />
+      <workItem from="1567911706739" duration="79000" />
+      <workItem from="1567947812697" duration="1481000" />
     </task>
     <task id="LOCAL-00001" summary="这他妈也行">
       <created>1567845304189</created>
@@ -491,14 +484,22 @@
       <option name="project" value="LOCAL" />
       <updated>1567856479158</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="前端页面">
+      <created>1567866624942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567866624942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7912000" />
+    <option name="totallyTimeSpent" value="10166000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="Image Layers" order="1" />
@@ -506,26 +507,26 @@
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info id="Web" order="5" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.2228145" />
+      <window_info active="true" content_ui="combo" id="Project" order="6" visible="true" weight="0.1988273" />
       <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Inspection Results" sideWeight="0.49946696" weight="0.329718" />
-      <window_info anchor="bottom" id="Messages" sideWeight="0.49840087" weight="0.329718" />
       <window_info anchor="bottom" id="Application Servers" order="0" sideWeight="0.4989339" weight="0.329718" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info anchor="bottom" id="Docker" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.07995736" side_tool="true" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.0804904" side_tool="true" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Java Enterprise" order="4" sideWeight="0.49946696" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="5" />
-      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Version Control" order="6" sideWeight="0.4978678" weight="0.3033586" />
       <window_info anchor="bottom" id="Message" order="7" />
       <window_info anchor="bottom" id="Find" order="8" />
       <window_info anchor="bottom" id="Run" order="9" />
-      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.92004263" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Debug" order="10" sideWeight="0.9195096" visible="true" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="13" />
-      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.098614074" />
+      <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Inspection Results" order="15" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Messages" order="16" sideWeight="0.49840087" weight="0.329718" />
+      <window_info anchor="right" id="Maven" order="0" visible="true" weight="0.0858209" />
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
       <window_info anchor="right" id="Database" order="3" />
@@ -542,16 +543,11 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="这他妈也行" />
     <MESSAGE value="导入登录界面样式" />
-    <option name="LAST_COMMIT_MESSAGE" value="导入登录界面样式" />
+    <MESSAGE value="前端页面" />
+    <option name="LAST_COMMIT_MESSAGE" value="前端页面" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/第三次更新测试.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/第三次更新测试.java" />
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/BaseGameController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="196">
@@ -567,12 +563,12 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/bootstrap-theme.css.map">
+      <provider editor-type-id="sourcemapFileViewerProvider" />
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
-      <provider editor-type-id="sourcemapFileViewerProvider" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor" />
@@ -590,19 +586,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret selection-end-line="180" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index.js" />
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index2.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4176">
-          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image/20190905204823866.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/vue2.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -613,55 +602,76 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image/wallhaven-83xrjj.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml">
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/js/index2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="4176">
+          <caret line="174" column="22" selection-start-line="174" selection-start-column="22" selection-end-line="174" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/resources/applicationContext-web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
+        <state relative-caret-position="480">
           <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css">
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="81" selection-start-line="81" selection-end-line="88" selection-end-column="1" />
+        <state relative-caret-position="816">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/java/com/shangma/cn/controller/UserGameController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
+        <state relative-caret-position="648">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/vue.html">
+    <entry file="file://$PROJECT_DIR$/Brunhild-mapper/src/main/resources/applicationContext-dao.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="39" column="82" selection-start-line="39" selection-start-column="82" selection-end-line="39" selection-end-column="82" />
+        <state relative-caret-position="1056">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/image/wallhaven-83xrjj.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="41" column="68" selection-start-line="41" selection-start-column="68" selection-end-line="41" selection-end-column="68" />
+          <folding>
+            <element signature="n#style#0;n#h5#0;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h5#1;n#form#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Brunhilde-web/src/main/webapp/css/now2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="310" selection-start-line="310" selection-end-line="310" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20212767" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

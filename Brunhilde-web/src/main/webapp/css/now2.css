@@ -285,7 +285,7 @@ footer p a:focus:hover {
         margin: 0;
         top: 0;
         left: 0;
-        width: 100% !important;
+        width: 80% !important;
         transition: all 0.5s ease-in-out;
     }
     section#formHolder .form .form-peice.switched {
@@ -295,8 +295,8 @@ footer p a:focus:hover {
     }
     section#formHolder .form .form-peice > form {
         width: 100% !important;
-        padding: 60px;
-        left: 50%;
+        padding: 20px;
+        left: 40%;
     }
 }
 @media (max-width: 480px) {
@@ -307,4 +307,6 @@ footer p a:focus:hover {
     h2 {
         font-size: 40px !important;
     }
+
+
 }
