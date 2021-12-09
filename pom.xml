@@ -22,7 +22,7 @@
         <connector>8.0.17</connector>
         <pageHelper>5.1.2</pageHelper>
         <mybatis-spring>1.3.2</mybatis-spring>
-        <jackson-version>2.9.8</jackson-version>
+        <jackson-version>2.9.10.8</jackson-version>
 
     </properties>
 
