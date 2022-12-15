@@ -17,7 +17,7 @@
     </modules>
     <properties>
 
-        <spring-version>5.1.5.RELEASE</spring-version>
+        <spring-version>5.2.20.RELEASE</spring-version>
         <mybatis>3.4.6</mybatis>
         <connector>8.0.17</connector>
         <pageHelper>5.1.2</pageHelper>
